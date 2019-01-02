@@ -1,0 +1,33 @@
+Implementation of data structures and algorithms
+Fall 2018
+Short Project 8: Depth-first search (DFS)
+Thu, Oct 18, 2018
+
+Version 1.0: Initial description (Thu, Oct 11).
+
+Due: 11:59 PM, Sun, Oct 28.
+
+Submission procedure: same as usual.
+
+Use DFS.java as the starter code for all tasks in this project. 
+Teams are same as in SP7.
+Do not modify Graph.java. 
+Do not move Graph class away from "rbk.Graph".
+
+Team task: 
+
+1. Implement topologicalOrdering1() in the starter code.
+   This is the DFS-based algorithm for finding the topological ordering
+   of a directed acyclic graph.
+
+
+Individual tasks (optional):
+
+2. Implement topologicalOrdering2(g) in the starter code.
+   In this algorithm discussed in class, we keep removing
+   nodes with no incoming edges.
+
+3. Implement connectedComponents() in the starter code.
+   In this algorithm, use DFS to find the number of connected components
+   of a given undirected graph. Each node gets a cno.
+   All nodes in the same connected component receive the same cno.
