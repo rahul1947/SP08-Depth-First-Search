@@ -1,25 +1,27 @@
-// change to your netid
 package rsn170330.sp08;
-
-/**
- * Graphs: Depth-First-Search for Short Project 8.
- * Course: CS 5V81.001: Implementation of Data Structures and Algorithms
- * @author Rahul Nalawade (rsn170330)
- * @author Arunachalam Saravanan (axs170081)
- */
+// NOTE: Please refer updated version of this DFS.java in SP10.
 
 import rbk.Graph;
 import rbk.Graph.Vertex;
 import rbk.Graph.Edge;
 import rbk.Graph.GraphAlgorithm;
 import rbk.Graph.Factory;
-import rbk.Graph.Timer;
 
 import java.io.File;
 import java.util.List;
 import java.util.Queue;
 import java.util.LinkedList;
 import java.util.Scanner;
+
+/**
+ * CS 5V81.001: Implementation of Data Structures and Algorithms
+ * Short Project SP08: Depth First Search.
+ * Team SP43:
+ * @author Rahul Nalawade (rsn170330)
+ * @author Arunachalam Saravanan (axs170081)
+ * 
+ * Date: October 28, 2018
+ */
 
 /**
  * Team task: 
@@ -40,7 +42,6 @@ import java.util.Scanner;
  * All nodes in the same connected component receive the same cno.
  * 
  */
-
 public class DFS extends GraphAlgorithm<DFS.DFSVertex> {
 	
 	static int topNum;
