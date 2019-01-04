@@ -8,13 +8,14 @@
 #### Date
 * October 28, 2018
 
+NOTE: Please refer more Object-Oriented version of this DFS.java from SP10 - [DFS.java](https://github.com/rahul1947/SP10-DFS-and-Divide-and-Conquer/blob/master/DFS.java) :).
 _______________________________________________________________________________
 ### Problems:
 
 #### A. Team Task: 
 
 **Problem 1.**
-   Implement topologicalOrdering1() in the starter code.
+   Implement topologicalOrdering1().
    This is the DFS-based algorithm for finding the topological ordering
    of a directed acyclic graph.
 
@@ -24,7 +25,7 @@ _______________________________________________________________________________
 #### B. Individual Tasks (optional):
 
 **Problem 2.**
-   Implement topologicalOrdering2(g) in the starter code.
+   Implement topologicalOrdering2(g).
    In this algorithm discussed in class, we keep removing
    nodes with no incoming edges.
 
@@ -32,9 +33,9 @@ _______________________________________________________________________________
 
 
 **Problem 3.**
-   Implement connectedComponents() in the starter code.
+   Implement connectedComponents().
    In this algorithm, use DFS to find the number of connected components
-   of a given undirected graph. Each node gets a cno.
+   of a given undirected graph. Each node gets a cno (component number).
    All nodes in the same connected component receive the same cno.
 
 **Solution:** [DFS.java](https://github.com/rahul1947/SP08-Depth-First-Search/blob/master/DFS.java)
