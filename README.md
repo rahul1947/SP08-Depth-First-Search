@@ -40,6 +40,7 @@ _______________________________________________________________________________
 **Solution:** [DFS.java](https://github.com/rahul1947/SP08-Depth-First-Search/blob/master/DFS.java)
 
 ```
+Sample Output: 
 # SP08 - CONNECTED COMPONENTS AND TOPOLOGICAL ORDERINGS: 
 ____________________________________________________________
 Graph: n: 10, m: 12, directed: true, Edge weights: false
