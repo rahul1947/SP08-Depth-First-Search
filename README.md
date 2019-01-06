@@ -8,7 +8,7 @@
 #### Date
 * October 28, 2018
 
-NOTE: Please refer more Object-Oriented version of this DFS.java from SP10 - [DFS.java](https://github.com/rahul1947/SP10-DFS-and-Divide-and-Conquer/blob/master/DFS.java) :).
+NOTE: Please refer more Object-Oriented version of this DFS.java from SP12 - [DFS.java](https://github.com/rahul1947/SP12-Breadth-First-Search-and-Enumeration/blob/master/DFS.java) :).
 _______________________________________________________________________________
 ### Problems:
 
