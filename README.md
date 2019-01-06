@@ -1,6 +1,8 @@
 ## Short Project SP08: Depth First Search
 
 1. Implementation of Depth First Search algorithm for a Graph, using rbk/Graph.java. 
+2. Implementation of Connected Components for a DAG and each vertex.
+3. Implementation of Topological Orderings using two methods DFS and inDegree Ordering. 
 
 #### Author
 * [Rahul Nalawade](https://github.com/rahul1947)
