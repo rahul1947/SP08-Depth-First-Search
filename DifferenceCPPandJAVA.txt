@@ -1,0 +1,44 @@
+
++---------------------------------------------------------------------+
+|              C++                 |               Java               |
+|----------------------------------|----------------------------------|
+| Platform Dependent               | Platform Indepenede              |
+| Write once Compile anywhere/WOCA | Write once run anywhere/ WORA    |
+|----------------------------------|----------------------------------|
+| Runs on native executable        | Runs on a Virtual Machine        |
+| machine code for target          |                                  |
+| Instruction Set                  |                                  |
+|----------------------------------|----------------------------------|
+| Both Procedural and Object       | Pure Object Oriented Language    |
+| Oriented Language                | (supports scripting languages)   |
+|---------------------------------------------------------------------|
+| both has functional, procedural, generic, programming paradigms     |
+|---------------------------------------------------------------------|
+| Supports Destructors, but no     | Supports automatic Garbage       |
+| Garbage collectors               | collection                       |
+|                                  |                                  |
+| Memeory management can be done   |                                  |
+| manually (new, delete)           |                                  |
+|                                  |                                  |
+| Supports deterministic           | Supports non-deterministic use   |
+| destruction of objects           | of finalize() method             |
+|----------------------------------|----------------------------------|
+| Pointers, references,            | All types (primitives/           |
+| pass-by-value are supported for  | references types) are always     |
+| all types (primitives/           | passed by value                  |
+| user-defined)                    |                                  |
+|----------------------------------|----------------------------------|
+| Supports Structures and Unions   | No support for Struc and union   |
+|----------------------------------|----------------------------------|
+| Supports GOTO/ Jump statements   | No GOTO statemt, but has label   |
+|                                  | which can be used only before    |
+|                                  | nested loops                     |
+|----------------------------------|----------------------------------|
+| Operator overloading             | Operators NOT  overridible       |
+|----------------------------------|----------------------------------|
+| Single and MULTIPLE Inheritance  | Single Inheritance of Classes    |
+|                                  | Multiple Inheritance - Interface |
+|----------------------------------|----------------------------------|
+| No documentation mechanism       | Extensive JavaDoc documentation  |
+|                                  | standard for all classes         |
++---------------------------------------------------------------------+
