@@ -1,40 +1,44 @@
 
+MAIN DIFFERENCES IN C++ and JAVA
+
+
+
 +---------------------------------------------------------------------+
 |              C++                 |               Java               |
 |----------------------------------|----------------------------------|
-| Platform Dependent               | Platform Indepenede              |
+| Platform Dependent               | Platform Independent             |
 | Write once Compile anywhere/WOCA | Write once run anywhere/ WORA    |
 |----------------------------------|----------------------------------|
-| Runs on native executable        | Runs on a Virtual Machine        |
-| machine code for target          |                                  |
+| Runs on Native Executable        | Runs on a Virtual Machine        |
+| Machine Code for target          |                                  |
 | Instruction Set                  |                                  |
 |----------------------------------|----------------------------------|
-| Both Procedural and Object       | Pure Object Oriented Language    |
-| Oriented Language                | (supports scripting languages)   |
+| Procedural and Object Oriented   | Pure Object Oriented Language    |
+| Language support                 | (supports scripting languages)   |
 |---------------------------------------------------------------------|
-| both has functional, procedural, generic, programming paradigms     |
+| Both supports functional, procedural, generic programming paradigms |
 |---------------------------------------------------------------------|
-| Supports Destructors, but no     | Supports automatic Garbage       |
-| Garbage collectors               | collection                       |
+| Supports Destructors, but no     | Supports Automatic Garbage       |
+| Garbage collectors               | Collection                       |
 |                                  |                                  |
-| Memeory management can be done   |                                  |
+| Memory management can be done    |                                  |
 | manually (new, delete)           |                                  |
 |                                  |                                  |
-| Supports deterministic           | Supports non-deterministic use   |
-| destruction of objects           | of finalize() method             |
+| Supports Deterministic           | Supports Non-Deterministic use   |
+| Destruction of Objects           | of finalize() method             |
 |----------------------------------|----------------------------------|
-| Pointers, references,            | All types (primitives/           |
-| pass-by-value are supported for  | references types) are always     |
-| all types (primitives/           | passed by value                  |
+| Pointers, references,            | All types (primitive/ reference  |
+| pass-by-value are supported for  | types) are always passed by      |
+| all types (primitives/           | value                            |
 | user-defined)                    |                                  |
 |----------------------------------|----------------------------------|
-| Supports Structures and Unions   | No support for Struc and union   |
+| Supports Structures and Unions   | No support for Struct and Union  |
 |----------------------------------|----------------------------------|
-| Supports GOTO/ Jump statements   | No GOTO statemt, but has label   |
+| Supports GOTO/ Jump statements   | No GOTO statement, but has label |
 |                                  | which can be used only before    |
 |                                  | nested loops                     |
 |----------------------------------|----------------------------------|
-| Operator overloading             | Operators NOT  overridible       |
+| Operator Overloading             | Operators NOT  overridable       |
 |----------------------------------|----------------------------------|
 | Single and MULTIPLE Inheritance  | Single Inheritance of Classes    |
 |                                  | Multiple Inheritance - Interface |
@@ -42,3 +46,4 @@
 | No documentation mechanism       | Extensive JavaDoc documentation  |
 |                                  | standard for all classes         |
 +---------------------------------------------------------------------+
+
